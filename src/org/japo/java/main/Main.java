@@ -22,23 +22,17 @@ package org.japo.java.main;
 public class Main {
     
     public static void main(String[] args) {
-                                            //System es una clase,out es un recurso de la clase System. el punto indica el recurso.      
+                                              
        
          final int HORA1=03;
          final int HORA2=27;                                     
         
         //MANERA 1 
-       
         System.out.println ("Hora de entrada " + HORA1 + ":" + HORA2);    
       
         //MANERA 2 
-        
         System.out.printf("Hora de entrada %d:%d%n",HORA1,HORA2);
-        
-        
-        
-        
-        
+          
     }//main
     
 }//class
