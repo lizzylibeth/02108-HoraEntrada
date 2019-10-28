@@ -31,7 +31,7 @@ public class Main {
         System.out.println ("Hora de entrada " + HORA1 + ":" + HORA2);    
       
         //MANERA 2 
-        System.out.printf("Hora de entrada %d:%d%n",HORA1,HORA2);
+        System.out.printf("Hora de entrada %d:%d%n",HORA1 ,HORA2 );
           
     }//main
     
